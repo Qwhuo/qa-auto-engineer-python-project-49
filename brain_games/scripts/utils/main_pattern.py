@@ -10,7 +10,7 @@ def main_pattern(game, entry_rule):
         g = game()
         if not g:
             print(f"Let's try again, {name}!")
-            sys.exit(1)
+            sys.exit(0)
         cnt += 1
         if cnt == 3:
             print(f"Congratulations, {name}!")
