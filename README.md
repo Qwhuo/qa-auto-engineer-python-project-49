@@ -23,6 +23,11 @@ cd qa-auto-engineer-python-project-49
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+brain-even -> https://asciinema.org/a/akAAe1GD5wAAiK0j
+brain-calc -> https://asciinema.org/a/FNBpQrhiSq5oeWR7
+brain-gcd -> https://asciinema.org/a/jHvgxgZKBpuKFU5p
+brain-progression -> https://asciinema.org/a/gKqGdXwqd0VWU4Xd
+brain-prime -> https://asciinema.org/a/QBIW9wUWmhuoUbUK
 
 ---
 
